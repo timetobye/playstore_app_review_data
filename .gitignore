@@ -1,6 +1,17 @@
 
-# Created by https://www.gitignore.io/api/venv,macos,python
-# Edit at https://www.gitignore.io/?templates=venv,macos,python
+# Created by https://www.gitignore.io/api/venv,macos,python,jupyternotebooks
+# Edit at https://www.gitignore.io/?templates=venv,macos,python,jupyternotebooks
+
+### JupyterNotebooks ###
+# gitignore template for Jupyter Notebooks
+# website: http://jupyter.org/
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Remove previous ipynb_checkpoints
+#   git rm -r .ipynb_checkpoints/
+#
 
 ### macOS ###
 # General
@@ -107,7 +118,6 @@ docs/_build/
 target/
 
 # Jupyter Notebook
-.ipynb_checkpoints
 
 # IPython
 profile_default/
@@ -168,4 +178,4 @@ dmypy.json
 pyvenv.cfg
 pip-selfcheck.json
 
-# End of https://www.gitignore.io/api/venv,macos,python
+# End of https://www.gitignore.io/api/venv,macos,python,jupyternotebooks
