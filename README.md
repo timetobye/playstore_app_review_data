@@ -17,27 +17,27 @@ Google play app review data EDA
 
 ## App Review List
 
-### ZigZag
+### :womans_clothes: ZigZag
 - [ ] [EDA](https://github.com/timetobye/playstore_app_review_data/tree/master/EDA_result/Done/zigzag)
 - [ ] 시각화 파일 업로드
 - [ ] 내용 정리 PDF
 
-### Tutoring
+### :school: Tutoring
 - [ ] EDA
 - [ ] 시각화 파일 업로드
 - [ ] 내용 정리 PDF
 
-### Socar
+### :blue_car: Socar
 - [ ] EDA
 - [ ] 내용 정리
 - [ ] 내용 정리 PDF
 
-### Banksalad
+### :bank: Banksalad
 - [ ] EDA
 - [ ] 내용 정리
 - [ ] 내용 정리 PDF
 
-### Buzzvil
+### :iphone: Buzzvil
 - [ ] EDA
 - [ ] 내용 정리
 - [ ] 내용 정리 PDF
