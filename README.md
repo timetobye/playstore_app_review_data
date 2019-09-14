@@ -21,18 +21,19 @@ Google play app review data EDA
 - [x] [EDA](https://github.com/timetobye/playstore_app_review_data/tree/master/EDA_result/Done/zigzag)
 - [x] 시각화 파일 업로드
 - [x] 내용 정리 PDF(파일 별도 관리)
-- 여성 쇼핑몰 답게 다채로운 리뷰들이 있었습니다.
+- 여성 쇼핑몰 답게 다채로운 리뷰들이 있었습니다. ~아 근데 난 솔로라서..~
 
 ### :house: Ohouse
 - [x] [EDA](https://github.com/timetobye/playstore_app_review_data/tree/master/EDA_result/Done/ohouse)
 - [x] 시각화 파일 업로드
 - [x] 내용 정리 PDF(파일 별도 관리)
-- 정말 높은 별점을 지니고 있습니다. 무척 인상 깊었습니다.
+- 정말 높은 별점을 지니고 있습니다. 무척 인상 깊었습니다. 배우고 싶은 앱입니다. 부정적인 평가가 없어요.
 
 ### :school: Tutoring
-- [ ] EDA
-- [ ] 시각화 파일 업로드
-- [ ] 내용 정리 PDF
+- [x] EDA
+- [x] 시각화 파일 업로드
+- [x] 내용 정리 PDF(파일 별도 관리)
+- 2019년 대세 앱 답게 반응이 좋습니다. 다만 네트워크 연결 등에서 사용자들의 불만이 증가하고 있습니다.
 
 ### :blue_car: Socar
 - [ ] EDA
