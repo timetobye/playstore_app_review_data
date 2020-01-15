@@ -20,30 +20,39 @@ Google play app review data EDA
 Jupyter Notebook으로 EDA를 진행하였고 아래는 EDA를 통해서 확인 할 수 있는 항목 예시 입니다. 
 
 - 요일
+
 ![alt text](sample_image/daily.png)
 
 - 요일 별 별점 비율 분포
+
 ![alt text](sample_image/heatmap_daily_rating.png)
 
 - 리뷰 작성 횟수 비율 분포
+
 ![alt text](sample_image/ratio_of_comment_counting.png)
 
 - 별점 별 비율
+
 ![alt text](sample_image/app_rating.png)
 
 - 답변 비율
+
 ![alt text](sample_image/answer_ratio.png)
 
 - 일간 별점 변화
+
 ![alt text](sample_image/daily_rating_graph.png)
 
 - 월간 별점 변화
+
 ![alt text](sample_image/monthly_daily_rating.png)
 
 - 리뷰에 대한 답변 소요 시간 및 누적 그래프
+
 ![alt text](sample_image/answer_1.png)
 
 - 단어 빈도 수
+
 ![alt text](sample_image/word_frequency.png)
 
 
