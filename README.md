@@ -61,11 +61,15 @@ Jupyter Notebook으로 EDA를 진행하였고 아래는 EDA를 통해서 확인 
 ### Done
 - [Coupang](https://nbviewer.jupyter.org/github/timetobye/playstore_app_review_data/blob/master/EDA_result/coupang_20191229/%5Bcoupang%5Dgoogle_play_store_review_EDA.ipynb)
 - [Azar](https://nbviewer.jupyter.org/github/timetobye/playstore_app_review_data/blob/master/EDA_result/Azar_20191229/%5BAzar%5Dgoogle_play_store_review_EDA_20191229.ipynb)
-
-
-### TODO
 - [Socar]()
 - [tada]()
 - hakuna
-- aim
-- ohhouse
+- banksalad
+- coupang
+- myrealtrip
+- ohhouse(오늘의집)
+- yanolja
+- yogiyo
+
+### TODO
+- 배달의 민족
